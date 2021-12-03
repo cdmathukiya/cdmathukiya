@@ -35,6 +35,7 @@ My range of development services includes
 
 My skills:
 ► Programming Languages: PHP
+
 ► PHP Frameworks: Laravel, Codeigniter
 ► JavaScript frameworks: VueJS, jquery, javascript
 ► HTML5/CSS3 - responsive design (Grid, Bootstrap, GridLayout)
