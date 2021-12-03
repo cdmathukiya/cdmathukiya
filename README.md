@@ -54,6 +54,7 @@ I will work with you to discover what you need and create the best solution. My 
 
 ## 🔧 Langueages & Tools
 <p align='left'>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/220px-PHP-logo.svg.png" alt="Laravel" width="auto" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" width="auto" height="40"/>
   <img src="https://cdn.freebiesupply.com/logos/large/2x/codeigniter-logo-png-transparent.png" alt="Codeigniter" width="auto" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="auto" height="40">
@@ -76,6 +77,8 @@ I will work with you to discover what you need and create the best solution. My 
 <p align="left">
 <a href="https://www.linkedin.com/in/chintan-mathukiya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chintan-mathukiya" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/4460639/chintan-mathukiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="chintan-mathukiya" height="30" width="40" /></a>
+<a href="https://www.upwork.com/freelancers/cdmathukiya" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/y4bswMT02OROjzOPa5zDGsnXX5-cBABjF93j26seJH2cEHD4PuBW1d5VvwfYleeKf4_X=s180-rw" alt="chintan-mathukiya"  width="40" /></a>
+  
 
 
 
