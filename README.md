@@ -34,21 +34,21 @@ My range of development services includes
 - ERP software.
 
 My skills:
-  > Programming Languages: PHP
-  > PHP Frameworks: Laravel, Codeigniter
-  > JavaScript frameworks: VueJS, jquery, javascript
-  > HTML5/CSS3 - responsive design (Grid, Bootstrap, GridLayout)
-  > CMS Platforms: WordPress
-  > SQL Databases: MySQL, MSAccess
-  > RESTful APIs
-  > API integrations:
-    - Google Maps / Places.
-    - Payment gateway integration
-    - braintree
-    - Social login
-    - Twilio (Audio call, video call, Chat, SMS, Conversation)
-  > VersionControl: GIT
-  > Server experience: AWS (EC2 instance, lightsail)
+  ► Programming Languages: PHP
+► PHP Frameworks: Laravel, Codeigniter
+► JavaScript frameworks: VueJS, jquery, javascript
+► HTML5/CSS3 - responsive design (Grid, Bootstrap, GridLayout)
+► CMS Platforms: WordPress
+► SQL Databases: MySQL, MSAccess
+► RESTful APIs
+► API integrations:
+- Google Maps / Places.
+- Payment gateway integration
+- braintree
+- Social login
+- Twilio (Audio call, video call, Chat, SMS, Conversation)
+► VersionControl: GIT
+► Server experience: AWS (EC2 instance, lightsail)
 
 I will work with you to discover what you need and create the best solution. My priorities are quality and respect for deadlines and budget. I love to share my enthusiasm and passion for design, so feel free to connect me, and let's get the conversation started.
 
