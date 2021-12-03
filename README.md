@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Header](https://github.com/cdmathukiya/cdmathukiya/blob/main/images/banner.png)
+![Header](https://github.com/cdmathukiya/cdmathukiya/blob/main/banner.png)
 
 # Hello folks!👋
 
-My name is Aashima Ahuja. I am a Frontend engineer and Content creator. I am from india, living in Amsterdam and working at Miro.
+My name is Chintan Mathukiya. I am a  Fullstack web developer. I am from india, living in Rajkot.
 
 ## &#x270d; Content Creation and Vlogging
 
@@ -53,10 +53,8 @@ Apart from coding , I also make technical videos. You can check the out on Linke
 
 ## 🔗 &nbsp;**Connect with me**
 <p align="left">
-<a href="https://twitter.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/4214976" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
-<a href="https://instagram.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chintan-mathukiya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chintan-mathukiya" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/4460639/chintan-mathukiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="chintan-mathukiya" height="30" width="40" /></a>
 
 
 
