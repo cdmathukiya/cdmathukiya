@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Header](https://github.com/cdmathukiya/cdmathukiya/blob/main/web-solution.jpg)
+![Header](https://github.com/cdmathukiya/cdmathukiya/blob/main/web-solution.png)
 
 # Hello folks!👋
 
