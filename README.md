@@ -20,9 +20,37 @@ Here are some ideas to get you started:
 
 My name is Chintan Mathukiya. I am a  Fullstack web developer. I am from india, living in Rajkot.
 
-## &#x270d; Content Creation and Vlogging
+## &#x270d; Fullstack Web Development
 
-Apart from coding , I also make technical videos. You can check the out on LinkedIn
+I am a Fullstack web developer with 6+ years of experience in Laravel and CodeIgniter framework in the backend and Vue js in the front end.
+
+My range of development services includes
+- eCommerce
+- Telemedicine website
+- Business websites
+- Catalog websites
+- WordPress websites
+- CMS development
+- ERP software.
+
+My skills:
+► Programming Languages: PHP
+► PHP Frameworks: Laravel, Codeigniter
+► JavaScript frameworks: VueJS, jquery, javascript
+► HTML5/CSS3 - responsive design (Grid, Bootstrap, GridLayout)
+► CMS Platforms: WordPress
+► SQL Databases: MySQL, MSAccess
+► RESTful APIs
+► API integrations:
+- Google Maps / Places.
+- Payment gateway integration
+- braintree
+- Social login
+- Twilio (Audio call, video call, Chat, SMS, Conversation)
+► VersionControl: GIT
+► Server experience: AWS (EC2 instance, lightsail)
+
+I will work with you to discover what you need and create the best solution. My priorities are quality and respect for deadlines and budget. I love to share my enthusiasm and passion for design, so feel free to connect me, and let's get the conversation started.
 
 ## 🔧 Langueages & Tools
 <p align='left'>
