@@ -41,7 +41,7 @@ My skills:
   - CMS Platforms: WordPress
   - SQL Databases: MySQL, MSAccess
   - RESTful APIs
-  -► API integrations:
+  - API integrations:
     - Google Maps / Places.
     - Payment gateway integration
     - braintree
