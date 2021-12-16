@@ -24,15 +24,6 @@ My name is Chintan Mathukiya. I am a  Fullstack web developer. I am from india, 
 
 I am a Fullstack web developer with 6+ years of experience in Laravel and CodeIgniter framework in the backend and Vue js in the front end.
 
-My range of development services includes
-- eCommerce
-- Telemedicine website
-- Business websites
-- Catalog websites
-- WordPress websites
-- CMS development
-- ERP software.
-
 My skills:
   - Programming Languages: PHP
   - PHP Frameworks: Laravel, Codeigniter
@@ -49,6 +40,16 @@ My skills:
     - Twilio (Audio call, video call, Chat, SMS, Conversation)
   - VersionControl: GIT
   - Server experience: AWS (EC2 instance, lightsail)
+
+My range of development services includes
+- eCommerce
+- Telemedicine website
+- Business websites
+- Catalog websites
+- WordPress websites
+- CMS development
+- ERP software.
+
 
 I will work with you to discover what you need and create the best solution. My priorities are quality and respect for deadlines and budget. I love to share my enthusiasm and passion for design, so feel free to connect me, and let's get the conversation started.
 
