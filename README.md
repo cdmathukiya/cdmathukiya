@@ -22,7 +22,7 @@ My name is Chintan Mathukiya. I am a  Fullstack web developer. I am from india, 
 
 ## &#x270d; Fullstack Web Development
 
-I am a Fullstack web developer with 6+ years of experience in Laravel and CodeIgniter framework in the backend and Vue js in the front end.
+I am a Fullstack web developer with 8+ years of experience in Laravel and CodeIgniter framework in the backend and Vue js in the front end.
 
 My skills:
   - Programming Languages: PHP
